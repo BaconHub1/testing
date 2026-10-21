@@ -1,3 +1,4 @@
+local __bundle = [==[
 local __modules = {}
 local __cache = {}
 
